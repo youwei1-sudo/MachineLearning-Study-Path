@@ -7,6 +7,7 @@ Intro:
   2.  KNN, K-means, desecion tree 
   3.  artifical neuron network(MLP/CNN/LSTM), Backpropagation
   4.  RL: bandit/MDP/DP/TD learning/MC
+
 Biginner:
   1. bayes optimization,  Bayesian Linear Regression/Logestic Regression
   2. FFT
@@ -17,8 +18,11 @@ Biginner:
   7. Junction tree
   8. SVM/Kernel Method/RKHS
   9. model based RL/Policy gradient/actor-critic
+
+
 Medium:
   1.
+ 
 Hard:
   
 Math you need:
