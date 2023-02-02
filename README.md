@@ -1,5 +1,7 @@
 # Machine-learning Engineer Growing path
 
+ML learning path
+--
 By diffculties in general :
 
 Intro: 
@@ -9,6 +11,7 @@ Intro:
   4.  RL: bandit/MDP/DP/TD learning/MC
 
 Biginner:
+
   1. bayes optimization,  Bayesian Linear Regression/Logestic Regression
   2. FFT
   3. NLP transformer/BERT/GPT
@@ -21,11 +24,11 @@ Biginner:
 
 
 Medium:
- --
+
 Hard:
---
   
 Math you need:
+--
   Intro: caculus, Linear Algebra, probabilty theory
   Binginner: Convex optimization(Ex. Constrained opt/kkt condition）, Graph theory, High-dim probabilty theory(Ex. Normal distribution and its linear transform, conditional probablity), Bayesian inference， Stochastic process
 
