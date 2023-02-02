@@ -1,6 +1,9 @@
-# Machine-learning Engineer
+# Machine-learning Engineer Growing path
 
+By diffculties in general :
 
+Intro: 
+  1. Regression(Linear, logestic)
 
 
 ## General Deep learning Tips
