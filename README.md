@@ -21,9 +21,9 @@ Biginner:
 
 
 Medium:
-  1.
- 
+ --
 Hard:
+--
   
 Math you need:
   Intro: caculus, Linear Algebra, probabilty theory
