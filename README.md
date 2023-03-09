@@ -34,6 +34,8 @@ Math you need:
   Binginner: Convex optimization(Ex. Constrained opt/kkt condition）, Graph theory, High-dim probabilty theory(Ex. Normal distribution and its linear transform, conditional probablity), Bayesian inference， Stochastic process
 
 
+## Developer Knowledge / learning path(backend)
+https://roadmap.sh/backend
 
 ## General Deep learning Tips
 https://jeffmacaluso.github.io/post/DeepLearningRulesOfThumb/
