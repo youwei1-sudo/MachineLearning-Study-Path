@@ -33,6 +33,12 @@ Math you need:
   
   Binginner: Convex optimization(Ex. Constrained opt/kkt condition）, Graph theory, High-dim probabilty theory(Ex. Normal distribution and its linear transform, conditional probablity), Bayesian inference， Stochastic process
 
+## 高效进行代码和实验管理
+深度学习
+1. 代码包
+2. 目录创建原则
+3. 优秀的管理软件
+
 
 ## Developer Knowledge / learning path(backend)
 https://roadmap.sh/backend
