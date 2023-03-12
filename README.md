@@ -39,6 +39,7 @@ Math you need:
 2. 目录创建原则
 3. 优秀的管理软件
 
+https://github.com/youwei1-sudo/MachineLearning-Study-Path/wiki/代码管理
 
 ## Developer Knowledge / learning path(backend)
 https://roadmap.sh/backend
