@@ -33,11 +33,11 @@ Math you need:
   
   Binginner: Convex optimization(Ex. Constrained opt/kkt condition）, Graph theory, High-dim probabilty theory(Ex. Normal distribution and its linear transform, conditional probablity), Bayesian inference， Stochastic process
 
-## 高效进行代码和实验管理
-深度学习
-1. 代码包
-2. 目录创建原则
-3. 优秀的管理软件
+## Effiency way to mange your code and conduct your experiement
+Deep learning Enterprise Intergration
+1. code package
+2. Rule to create file & direcoty 
+3. Management software
 
 https://github.com/youwei1-sudo/MachineLearning-Study-Path/wiki/代码管理
 
