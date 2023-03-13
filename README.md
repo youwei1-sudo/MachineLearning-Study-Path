@@ -2,7 +2,7 @@
 
 ML learning path
 --
-By diffculties in general :
+By difficulties in general :
 
 Intro: 
   1. Regression(Linear, logestic)
