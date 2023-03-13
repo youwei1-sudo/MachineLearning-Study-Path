@@ -29,7 +29,7 @@ Hard:
   
 Math you need:
 --
-  Intro: caculus, Linear Algebra, probabilty theory
+  Intro: Calculus, Linear Algebra, probabilty theory
   
   Binginner: Convex optimization(Ex. Constrained opt/kkt condition）, Graph theory, High-dim probabilty theory(Ex. Normal distribution and its linear transform, conditional probablity), Bayesian inference， Stochastic process
 
