@@ -43,7 +43,7 @@ Math you need:
   
   Beginner: Convex optimization(Ex. Constrained opt/kkt condition）, Graph theory, High-dim probabilty theory(Ex. Normal distribution and its linear transform, conditional probablity), Bayesian inference， Stochastic process
 
-## Effiency way to mange your code and conduct your experiement
+## Effiency way to manage your code and conduct your experiement
 Deep learning Enterprise Intergration
 1. code package
 2. Rule to create file & directory 
@@ -54,7 +54,7 @@ https://github.com/youwei1-sudo/MachineLearning-Study-Path/wiki/Enterprise-Integ
 ## Developer Knowledge / learning path(backend)
 https://roadmap.sh/backend
 
-## General Deep learning Tips
+## General Deep Learning tips
 https://jeffmacaluso.github.io/post/DeepLearningRulesOfThumb/
 
 
