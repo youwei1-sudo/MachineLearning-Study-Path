@@ -14,7 +14,7 @@ Intro:
   5. Coding:
       1. Python (Numpy, matplotlib, scikit-learn, open-cv , pytorch, Tensorflow etc) 
       2. Good to have: GPU programming (CUDA C++ etc)
-      3. Good to have: Parrlel Computing 
+      3. Good to have: Parallel Computing 
       4. Good to have: Matlab, R, Julia
       5. Gits, Unix enviorment
 
