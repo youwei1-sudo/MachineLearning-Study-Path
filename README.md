@@ -23,9 +23,11 @@ Biginner:
   9. model based RL/Policy gradient/actor-critic
 
 
-Medium: Missing Cuz i am still learning
+Medium: 
+  Missing Cuz i am still learning
 
-Hard:Missing Cuz i am not reaching, hhh
+Hard:
+  Missing Cuz i am far away , hhh
   
 Math you need:
 --
