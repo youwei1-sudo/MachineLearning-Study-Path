@@ -39,7 +39,7 @@ Deep learning Enterprise Intergration
 2. Rule to create file & direcoty 
 3. Management software
 
-https://github.com/youwei1-sudo/MachineLearning-Study-Path/wiki/代码管理
+https://github.com/youwei1-sudo/MachineLearning-Study-Path/wiki/Enterprise-Integration(代码管理)
 
 ## Developer Knowledge / learning path(backend)
 https://roadmap.sh/backend
