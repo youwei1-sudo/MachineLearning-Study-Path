@@ -39,9 +39,9 @@ Hard:
   
 Math you need:
 --
-  Intro: Calculus, Linear Algebra, probabilty theory
+  Intro: Calculus, Linear Algebra, probability theory
   
-  Binginner: Convex optimization(Ex. Constrained opt/kkt condition）, Graph theory, High-dim probabilty theory(Ex. Normal distribution and its linear transform, conditional probablity), Bayesian inference， Stochastic process
+  Beginner: Convex optimization(Ex. Constrained opt/kkt condition）, Graph theory, High-dim probabilty theory(Ex. Normal distribution and its linear transform, conditional probablity), Bayesian inference， Stochastic process
 
 ## Effiency way to mange your code and conduct your experiement
 Deep learning Enterprise Intergration
