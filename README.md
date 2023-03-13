@@ -6,10 +6,10 @@ By diffculties in general :
 
 Intro: 
   1. Regression(Linear, logestic)
-  2.  KNN, K-means, desecion tree 
-  3.  Artifical neuron network(MLP/CNN/LSTM),
-     1. Backpropagation, Forward Propergation
-     2. Max pooling, Activation Functions
+  2. KNN, K-means, desecion tree 
+  3. Artifical neuron network(MLP/CNN/LSTM)
+      1. Backpropagation, Forward Propergation
+      2. Max pooling, Activation Functions
   4.  RL: bandit/MDP/DP/TD learning/MC
   5. 
 
