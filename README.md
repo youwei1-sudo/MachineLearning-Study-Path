@@ -5,7 +5,7 @@ ML learning path
 By difficulties in general :
 
 Intro: 
-  1. Regression(Linear, logestic)
+  1. Regression(Linear, logistic)
   2. KNN, K-means, desecion tree 
   3. Artifical neuron network(MLP/CNN/LSTM)
       1. Backpropagation, Forward Propergation
@@ -20,7 +20,7 @@ Intro:
 
 Beginner:
 
-  1. Bayes optimization,  Bayesian Linear Regression/Logestic Regression
+  1. Bayes optimization,  Bayesian Linear Regression/logistic Regression
   2. FFT
   3. NLP Transformer/BERT/GPT
   4. GMM/HMM
