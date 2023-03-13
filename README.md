@@ -7,16 +7,16 @@ By diffculties in general :
 Intro: 
   1. Regression(Linear, logestic)
   2.  KNN, K-means, desecion tree 
-  3.  artifical neuron network(MLP/CNN/LSTM), Backpropagation
+  3.  Artifical neuron network(MLP/CNN/LSTM), Backpropagation
   4.  RL: bandit/MDP/DP/TD learning/MC
 
 Biginner:
 
-  1. bayes optimization,  Bayesian Linear Regression/Logestic Regression
+  1. Bayes optimization,  Bayesian Linear Regression/Logestic Regression
   2. FFT
-  3. NLP transformer/BERT/GPT
+  3. NLP Transformer/BERT/GPT
   4. GMM/HMM
-  5. EM/Baum-Welch/Viterbi/Kalman filter(UKF)
+  5. EM/Baum-Welch/Viterbi/KalmanFilter(UKF)
   6. Graphical model/Belief propagation
   7. Junction tree
   8. SVM/Kernel Method/RKHS
