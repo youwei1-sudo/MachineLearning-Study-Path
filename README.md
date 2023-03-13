@@ -15,7 +15,7 @@ Intro:
       1. Python (Numpy, matplotlib, scikit-learn, open-cv , pytorch, Tensorflow etc) 
       2. Good to have: GPU programming (CUDA C++ etc)
       3. Good to have: Parrlel Computing 
-      4. Matlab, R, Julia
+      4. Good to have: Matlab, R, Julia
       5. Gits, Unix enviorment
 
 Beginner:
