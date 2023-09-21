@@ -43,6 +43,12 @@ Math you need:
   
   Beginner: Convex optimization(Ex. Constrained opt/kkt condition）, Graph theory, High-dim probabilty theory(Ex. Normal distribution and its linear transform, conditional probablity), Bayesian inference， Stochastic process
 
+  中级：概率论（数族分布，GLM，测度论，skewness，kurtosis），凸优化，统计力学（spin glass model），泛函分析
+
+## cite source
+![IMG_055C85BA7194-1](https://github.com/youwei1-sudo/MachineLearning-Study-Path/assets/45375571/2fc27e58-094a-4cce-a3eb-45c4e127f9a1)
+![ ](https://github.com/youwei1-sudo/MachineLearning-Study-Path/assets/45375571/37d43689-f895-4035-aed8-95aca0514fec)
+
 ## Effiency way to manage your code and conduct your experiement
 Deep learning Enterprise Intergration
 1. code package
