@@ -66,3 +66,15 @@ https://jeffmacaluso.github.io/post/DeepLearningRulesOfThumb/
 
 ## Fine Tuning guide
 https://github.com/google-research/tuning_playbook
+
+## ML course i think good for ML basis
+
+
+Machine Learning
+
+10-601, Spring 2015
+
+Carnegie Mellon University
+
+Tom Mitchell and Maria-Florina Balcan 
+http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml
